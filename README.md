@@ -7,3 +7,5 @@
 * The map displays Earthquake Information, current as of the last hour and the major cities of the world.
 
 * Click around and play with the PApplet to see what happens!
+
+* The earthquake data is fetched and parsed by porgrams written by the UCSD course staff. The rest of the functionality was implemented by me. 

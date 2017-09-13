@@ -9,3 +9,5 @@
 * Click around and play with the PApplet to see what happens!
 
 * The earthquake data is fetched and parsed by porgrams written by the UCSD course staff. The rest of the functionality was implemented by me. 
+
+* You should compile and run *EarthquakeCityMap.java* to use the program.
